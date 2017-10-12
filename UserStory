@@ -1,0 +1,32 @@
+1 Registration Login
+
+As a user, I want to login using my social media profiles or private emal
+As a system, I want to validate the registration & login process using Firebase Authentication 
+
+2 Profile {Interior Design}
+As a user, I want to personalize/design my user profile
+As a system, I want to display the user profile -- 
+
+2a Camera/Gallery
+As a system, I want to support image uploads from the device gallery or camera
+
+2b App Store
+As a system, I want to support purchase of Sticker Packs
+
+2c Background color
+As a system, I want to change the background color of a user profile via a color wheel
+
+3 Content 
+As a user, I want to upload images or video 
+As a system, I want to display user uploaded images or video in a newsfeed stream for all users to see 
+{filters apply by geo-locations or partners admins}
+
+3a Content Live Stream
+As a user, I want to create a live stream 
+As a system, I want to support a live stream event 
+{in app purchases}
+
+4 Wall
+
+
+
